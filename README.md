@@ -1,4 +1,3 @@
 # project
-sdfsfsdgsd
-tjyrtyjrt
+quantitative analysis method
 
